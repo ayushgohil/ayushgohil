@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="170" viewBox="0 0 960 170" role="img" aria-labelledby="tem dem">
+<title id="tem">Ember — Small steps. Lasting habits.</title><desc id="dem">Ember. Small steps. Lasting habits. Local-first streaks, timers and home-screen widgets. No account, no ads. Built with FLUTTER / DART / SQLITE.</desc>
+<defs>
+<linearGradient id="bgem" x2="1" y2="1"><stop stop-color="#0d0b1a"/><stop offset="1" stop-color="#191232"/></linearGradient>
+<linearGradient id="acem"><stop stop-color="#a78bfa"/><stop offset="1" stop-color="#67e8f9"/></linearGradient>
+<pattern id="dotsem" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#8b7fd0" fill-opacity=".16"/></pattern>
+</defs>
+<rect x="1" y="1" width="958" height="168" rx="14" fill="url(#bgem)" stroke="#3a3060"/>
+<rect x="1" y="1" width="958" height="168" rx="14" fill="url(#dotsem)"/>
+<g font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace">
+
+<rect x="18" y="22" width="4" height="126" rx="2" fill="#fbbf24"/>
+<text x="926" y="118" text-anchor="end" font-size="84" font-weight="700" fill="#fbbf24" fill-opacity=".09">04</text>
+<text x="40" y="38" font-size="12" fill="#4ade80">✔ succeeded</text>
+<text x="136" y="38" font-size="12" fill="#a49dcc">· PRODUCTIVITY / ANDROID</text>
+<text x="38" y="82" font-size="34" font-weight="700" fill="#ece8ff">Ember</text>
+<text x="40" y="108" font-size="15" fill="#ece8ff">Small steps. Lasting habits.</text>
+<text x="40" y="130" font-size="13" fill="#a49dcc">Local-first streaks, timers and home-screen widgets. No account, no ads.</text>
+<text x="40" y="154" font-size="12" fill="#fbbf24" letter-spacing="1">FLUTTER / DART / SQLITE</text>
+<text x="926" y="154" text-anchor="end" font-size="12" fill="#a49dcc">EXPLORE REPOSITORY →</text>
+
+</g>
+</svg>

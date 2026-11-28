@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="170" viewBox="0 0 960 170" role="img" aria-labelledby="tsc dsc">
+<title id="tsc">SignalR Chat — Conversations, instantly.</title><desc id="dsc">SignalR Chat. Conversations, instantly. Private and group chat with live updates over SignalR. Built with ANGULAR / ASP.NET CORE / SIGNALR.</desc>
+<defs>
+<linearGradient id="bgsc" x2="1" y2="1"><stop stop-color="#0d0b1a"/><stop offset="1" stop-color="#191232"/></linearGradient>
+<linearGradient id="acsc"><stop stop-color="#a78bfa"/><stop offset="1" stop-color="#67e8f9"/></linearGradient>
+<pattern id="dotssc" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#8b7fd0" fill-opacity=".16"/></pattern>
+</defs>
+<rect x="1" y="1" width="958" height="168" rx="14" fill="url(#bgsc)" stroke="#3a3060"/>
+<rect x="1" y="1" width="958" height="168" rx="14" fill="url(#dotssc)"/>
+<g font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace">
+
+<rect x="18" y="22" width="4" height="126" rx="2" fill="#67e8f9"/>
+<text x="926" y="118" text-anchor="end" font-size="84" font-weight="700" fill="#67e8f9" fill-opacity=".09">02</text>
+<text x="40" y="38" font-size="12" fill="#4ade80">✔ succeeded</text>
+<text x="136" y="38" font-size="12" fill="#a49dcc">· REAL-TIME / WEB</text>
+<text x="38" y="82" font-size="34" font-weight="700" fill="#ece8ff">SignalR Chat</text>
+<text x="40" y="108" font-size="15" fill="#ece8ff">Conversations, instantly.</text>
+<text x="40" y="130" font-size="13" fill="#a49dcc">Private and group chat with live updates over SignalR.</text>
+<text x="40" y="154" font-size="12" fill="#67e8f9" letter-spacing="1">ANGULAR / ASP.NET CORE / SIGNALR</text>
+<text x="926" y="154" text-anchor="end" font-size="12" fill="#a49dcc">EXPLORE REPOSITORY →</text>
+
+</g>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="400" viewBox="0 0 960 400" role="img" aria-labelledby="thero dhero">
+<title id="thero">Ayush Gohil — .NET Full Stack Developer</title><desc id="dhero">Terminal-style banner showing dotnet build output: backend C#, ASP.NET Core, EF Core, SignalR; frontend Angular, TypeScript; data SQL Server, PostgreSQL, Supabase; mobile Kotlin, Flutter. Build succeeded.</desc>
+<defs>
+<linearGradient id="bghero" x2="1" y2="1"><stop stop-color="#0d0b1a"/><stop offset="1" stop-color="#191232"/></linearGradient>
+<linearGradient id="achero"><stop stop-color="#a78bfa"/><stop offset="1" stop-color="#67e8f9"/></linearGradient>
+<pattern id="dotshero" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#8b7fd0" fill-opacity=".16"/></pattern>
+</defs>
+<rect x="1" y="1" width="958" height="398" rx="14" fill="url(#bghero)" stroke="#3a3060"/>
+<rect x="1" y="1" width="958" height="398" rx="14" fill="url(#dotshero)"/>
+<g font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace">
+
+<path d="M1 44H959" stroke="#3a3060"/>
+<circle cx="26" cy="23" r="5" fill="#f87171"/><circle cx="44" cy="23" r="5" fill="#fbbf24"/><circle cx="62" cy="23" r="5" fill="#4ade80"/>
+<text x="480" y="28" text-anchor="middle" font-size="12" fill="#a49dcc">ayush.sln — dotnet build</text>
+<polygon points="932.6,125.0 932.6,255.0 820.0,320.0 707.4,255.0 707.4,125.0 820.0,60.0" fill="none" stroke="#a78bfa" stroke-opacity="0.3" stroke-width="1.5"/><polygon points="901.4,143.0 901.4,237.0 820.0,284.0 738.6,237.0 738.6,143.0 820.0,96.0" fill="none" stroke="#a78bfa" stroke-opacity="0.22" stroke-width="1.5"/><polygon points="870.2,161.0 870.2,219.0 820.0,248.0 769.8,219.0 769.8,161.0 820.0,132.0" fill="none" stroke="#a78bfa" stroke-opacity="0.45" stroke-width="1.5"/>
+<g transform="translate(820 190)" fill="none" stroke="#a78bfa" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M-18 -16L-34 0l16 16M18 -16L34 0 18 16M6 -24L-6 24"/></g>
+<text x="40" y="86" font-size="15" fill="#4ade80">$</text>
+<text x="58" y="86" font-size="15" fill="#ece8ff">dotnet build ayush.sln</text>
+<text x="38" y="150" font-size="58" font-weight="700" fill="#ece8ff" letter-spacing="-2">Ayush Gohil</text>
+<rect x="40" y="165" width="330" height="4" rx="2" fill="url(#achero)"/>
+<text x="40" y="198" font-size="16" fill="#a78bfa" letter-spacing="3">.NET FULL STACK DEVELOPER</text>
+<text x="40" y="222" font-size="14" fill="#a49dcc">Co-founder @ Nextlyr Tech · Ahmedabad, India</text>
+<g font-size="14"><text xml:space="preserve" x="40" y="268" fill="#a49dcc">Backend </text><text x="130" y="268" fill="#67e8f9">→</text><text x="152" y="268" fill="#ece8ff">C# · ASP.NET Core · EF Core · SignalR</text><text xml:space="preserve" x="40" y="292" fill="#a49dcc">Frontend</text><text x="130" y="292" fill="#67e8f9">→</text><text x="152" y="292" fill="#ece8ff">Angular · TypeScript</text><text xml:space="preserve" x="40" y="316" fill="#a49dcc">Data    </text><text x="130" y="316" fill="#67e8f9">→</text><text x="152" y="316" fill="#ece8ff">SQL Server · PostgreSQL · Supabase</text><text xml:space="preserve" x="40" y="340" fill="#a49dcc">Mobile  </text><text x="130" y="340" fill="#67e8f9">→</text><text x="152" y="340" fill="#ece8ff">Kotlin · Flutter</text></g>
+<text x="40" y="376" font-size="14" fill="#4ade80" font-weight="700">Build succeeded.</text>
+<text x="196" y="376" font-size="14" fill="#a49dcc">0 Warning(s)  0 Error(s)</text>
+<rect x="436" y="364" width="9" height="16" fill="#4ade80"><animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/></rect>
+
+</g>
+</svg>

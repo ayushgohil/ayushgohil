@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="270" viewBox="0 0 960 270" role="img" aria-labelledby="ttools dtools">
+<title id="ttools">Engineering toolbox</title><desc id="dtools">Project-file style list. Backend: C#, ASP.NET Core Web API, Entity Framework Core, SignalR. Frontend: Angular, TypeScript, Tailwind CSS. Data: SQL Server, PostgreSQL, Supabase, SQLite. Mobile: Kotlin, Jetpack Compose, Flutter, Dart. Tooling: Git, GitHub Actions.</desc>
+<defs>
+<linearGradient id="bgtools" x2="1" y2="1"><stop stop-color="#0d0b1a"/><stop offset="1" stop-color="#191232"/></linearGradient>
+<linearGradient id="actools"><stop stop-color="#a78bfa"/><stop offset="1" stop-color="#67e8f9"/></linearGradient>
+<pattern id="dotstools" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#8b7fd0" fill-opacity=".16"/></pattern>
+</defs>
+<rect x="1" y="1" width="958" height="268" rx="14" fill="url(#bgtools)" stroke="#3a3060"/>
+<rect x="1" y="1" width="958" height="268" rx="14" fill="url(#dotstools)"/>
+<g font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace">
+
+<path d="M1 44H959" stroke="#3a3060"/>
+<circle cx="26" cy="23" r="5" fill="#f87171"/><circle cx="44" cy="23" r="5" fill="#fbbf24"/><circle cx="62" cy="23" r="5" fill="#4ade80"/>
+<text x="480" y="28" text-anchor="middle" font-size="12" fill="#a49dcc">Ayush.csproj</text>
+<text xml:space="preserve" x="40" y="80" font-size="15"><tspan fill="#a49dcc">&lt;</tspan><tspan fill="#7dd3fc">Project </tspan><tspan fill="#fcd34d">Sdk</tspan><tspan fill="#a49dcc">=</tspan><tspan fill="#86efac">"Ayush.Sdk.FullStack"</tspan><tspan fill="#a49dcc">&gt;</tspan></text>
+<text xml:space="preserve" x="40" y="108" font-size="15"><tspan fill="#a49dcc">  &lt;</tspan><tspan fill="#7dd3fc">Backend   </tspan><tspan fill="#fcd34d">Include</tspan><tspan fill="#a49dcc">=</tspan><tspan fill="#86efac">"C#; ASP.NET Core Web API; Entity Framework Core; SignalR"</tspan><tspan fill="#a49dcc"> /&gt;</tspan></text><text xml:space="preserve" x="40" y="136" font-size="15"><tspan fill="#a49dcc">  &lt;</tspan><tspan fill="#7dd3fc">Frontend  </tspan><tspan fill="#fcd34d">Include</tspan><tspan fill="#a49dcc">=</tspan><tspan fill="#86efac">"Angular; TypeScript; Tailwind CSS"</tspan><tspan fill="#a49dcc"> /&gt;</tspan></text><text xml:space="preserve" x="40" y="164" font-size="15"><tspan fill="#a49dcc">  &lt;</tspan><tspan fill="#7dd3fc">Data      </tspan><tspan fill="#fcd34d">Include</tspan><tspan fill="#a49dcc">=</tspan><tspan fill="#86efac">"SQL Server; PostgreSQL; Supabase; SQLite"</tspan><tspan fill="#a49dcc"> /&gt;</tspan></text><text xml:space="preserve" x="40" y="192" font-size="15"><tspan fill="#a49dcc">  &lt;</tspan><tspan fill="#7dd3fc">Mobile    </tspan><tspan fill="#fcd34d">Include</tspan><tspan fill="#a49dcc">=</tspan><tspan fill="#86efac">"Kotlin; Jetpack Compose; Flutter; Dart"</tspan><tspan fill="#a49dcc"> /&gt;</tspan></text><text xml:space="preserve" x="40" y="220" font-size="15"><tspan fill="#a49dcc">  &lt;</tspan><tspan fill="#7dd3fc">Tooling   </tspan><tspan fill="#fcd34d">Include</tspan><tspan fill="#a49dcc">=</tspan><tspan fill="#86efac">"Git; GitHub Actions"</tspan><tspan fill="#a49dcc"> /&gt;</tspan></text>
+<text x="40" y="252" font-size="15" fill="#a49dcc">&lt;/<tspan fill="#7dd3fc">Project</tspan>&gt;</text>
+
+</g>
+</svg>
